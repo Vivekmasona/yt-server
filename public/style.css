@@ -87,7 +87,7 @@ body {
 }
 
 button {
-    background-color: #eb6161;
+    background-color: #15C4D5;
     cursor: pointer;
     border: none;
     color: white;
@@ -98,7 +98,7 @@ button {
 }
 
 button:hover {
-    background-color: #c32e2e;
+    background-color: #000;
 }
 
 .content {
@@ -125,7 +125,7 @@ table {
 }
 
 td, th {
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid #15C4D5;
     padding: 10px;
     text-align: left;
 }
